@@ -67,7 +67,7 @@ button,
 select,
 input {
   background-color: #ffebb3;
-  color: #5a3e2b;
+  color: #5a4b2b;
   font-family: inherit;
   border: none;
   border-radius: 10rem;
@@ -75,6 +75,7 @@ input {
   font-weight: 700;
   font-size: 1.8rem;
   cursor: pointer;
+  transition: 0.3s;
 }
 
 .add-form button {

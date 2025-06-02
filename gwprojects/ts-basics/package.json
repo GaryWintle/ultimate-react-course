@@ -1,0 +1,21 @@
+{
+  "name": "ts-basics",
+  "version": "1.0.0",
+  "description": "A basic TypeScript project",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "typescript",
+    "basics"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
